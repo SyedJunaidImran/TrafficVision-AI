@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Generated outputs
+data/outputs/*
+data/reports/*
+
+# Keep folders even if empty
+!data/outputs/.gitkeep
+!data/reports/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db

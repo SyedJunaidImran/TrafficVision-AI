@@ -1,0 +1,58 @@
+/* Background */
+
+.stApp{
+    background-color:#0F172A;
+}
+
+/* Headings */
+
+h1,h2,h3,h4,h5,h6{
+    color:white;
+}
+
+/* Paragraphs */
+
+p{
+    color:#b8c4cf;
+}
+
+/* Sidebar */
+
+[data-testid="stSidebar"]{
+    background:#111827;
+}
+
+/* Upload Box */
+
+[data-testid="stFileUploader"]{
+    border:2px dashed #3B82F6;
+    border-radius:18px;
+    padding:20px;
+    background:#1E293B;
+}
+
+/* Button */
+
+.stButton>button{
+
+    width:100%;
+
+    background:#2563EB;
+
+    color:white;
+
+    border-radius:12px;
+
+    height:50px;
+
+    border:none;
+
+    font-size:18px;
+
+    font-weight:bold;
+}
+
+.stButton>button:hover{
+
+    background:#1D4ED8;
+}
