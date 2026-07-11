@@ -173,7 +173,7 @@ TrafficVision AI can be used for:
 
 ## 👨‍💻 Author
 
-**Syed Junaid**
+**Syed Junaid Imran**
 
 B.Tech Computer Science & Engineering
 
